@@ -1,0 +1,5 @@
+print(type("string"))
+roll = input("Your roll : ")
+print(type(roll))
+last = 1807100 - int(roll)
+print(last)
