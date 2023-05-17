@@ -14,5 +14,8 @@ print(another)
 # formatted string
 first = 'john'
 last = "doe"
+
+# for writing variable 'f' should be used
 msg = f'{first} [{last}] is a coder'
+msg = first + last
 print(msg)
