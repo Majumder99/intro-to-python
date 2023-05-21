@@ -1,4 +1,4 @@
-#  dictionaries are like object in js
+#  dictionaries are like object/json in js
 customer = {
     "name": "Sourav Majumder",
     "age": 30,
